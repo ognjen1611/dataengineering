@@ -1,2 +1,6 @@
 Hello world! 
 Today was a great day!
+
+Tell me, how was your day?
+
+Alright, whis went well :)
